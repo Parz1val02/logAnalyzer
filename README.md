@@ -34,4 +34,4 @@ Example usage
 	style="float: left; margin-right: 10px;" />
 </p>
 
-Finally, you'll find to tarballs, ssh and apache, to execute the program on.
+Finally, two tarballs, ssh and apache, have been uploaded to execute the program on.
