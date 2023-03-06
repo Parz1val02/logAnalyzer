@@ -8,9 +8,9 @@ Additionally, the geolocation data of each ip is fetched from ipinfo.io's IP Geo
 
 How to execute the script?
 ===
-For starters, executing the srcript without parameters displays the following:
+For starters, executing the script without parameters displays the following:
 <p align="center">
-<img src="images/first.jpg"
+<img src="images/first.JPG"
 	alt="First"
 	style="float: left; margin-right: 10px;" />
 </p>
