@@ -3,7 +3,7 @@
 
 Prerequisites
 ===
-Before executing this tool, it's necessary to have installed the 7-Zip file archiver.
+Before executing this tool, it's necessary to have installed the 7-Zip file archiver.<br>
 Additionally, the geolocation data of each ip is fetched from ipinfo.io's IP Geolocation API. It offers 50,000 free IP geolocation lookups per month. More than enough to succesfully run this script.
 
 How to execute the script?
@@ -33,3 +33,5 @@ Example usage
 	alt="Third"
 	style="float: left; margin-right: 10px;" />
 </p>
+
+Finally, you'll find to tarballs, ssh and apache, to execute the program on.
