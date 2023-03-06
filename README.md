@@ -14,3 +14,22 @@ For starters, executing the script without parameters displays the following:
 	alt="First"
 	style="float: left; margin-right: 10px;" />
 </p>
+
+The flags are the following:
+* `-a` indicates the search for ips in the log compressed archives and lists the information found for each one.   
+* `-l` receives the compressed tarball to isnpect.
+* `-n` limits the output produced. By default, the serach is narrowed down to 25 entries.
+* `-h` invokes the help panel displayed above
+
+Example usage
+===
+<p align="center">
+<img src="images/second.JPG"
+	alt="Second"
+	style="float: left; margin-right: 10px;" />
+</p>
+<p align="center">
+<img src="images/third.JPG"
+	alt="Third"
+	style="float: left; margin-right: 10px;" />
+</p>
